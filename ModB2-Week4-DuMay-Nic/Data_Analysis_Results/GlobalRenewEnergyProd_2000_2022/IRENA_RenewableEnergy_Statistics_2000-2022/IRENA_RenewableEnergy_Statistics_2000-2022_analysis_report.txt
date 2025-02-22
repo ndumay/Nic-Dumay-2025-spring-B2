@@ -1,0 +1,37 @@
+Analysis Report for: IRENA_RenewableEnergy_Statistics_2000-2022
+==================================================
+
+Data Preview:
+   Region       Sub-region  Country ISO3 code  M49 code         RE or Non-RE Group Technology   Technology        Producer Type  Year  Electricity Generation (GWh)  Electricity Installed Capacity (MW)
+0  Africa  Northern Africa  Algeria       DZA        12  Total Non-Renewable     Fossil fuels  Natural gas  On-grid electricity  2000                       24585.0                              5459.01
+1  Africa  Northern Africa  Algeria       DZA        12  Total Non-Renewable     Fossil fuels  Natural gas  On-grid electricity  2001                       25781.0                              5455.50
+2  Africa  Northern Africa  Algeria       DZA        12  Total Non-Renewable     Fossil fuels  Natural gas  On-grid electricity  2002                       26994.0                              5891.01
+3  Africa  Northern Africa  Algeria       DZA        12  Total Non-Renewable     Fossil fuels  Natural gas  On-grid electricity  2003                       28619.4                              6013.24
+4  Africa  Northern Africa  Algeria       DZA        12  Total Non-Renewable     Fossil fuels  Natural gas  On-grid electricity  2004                       30312.0                              6305.24
+
+Summary Statistics:
+        Region                       Sub-region                         Country ISO3 code      M49 code     RE or Non-RE Group Technology Technology        Producer Type          Year  Electricity Generation (GWh)  Electricity Installed Capacity (MW)
+count    35193                            35193                           35193     35193  35193.000000            35193            35193      35193                35193  35193.000000                  3.519300e+04                         3.159400e+04
+unique       5                               17                             224       224           NaN                2               10         19                    2           NaN                           NaN                                  NaN
+top     Europe  Latin America and the Caribbean  United States of America (the)       USA           NaN  Total Renewable     Fossil fuels        Oil  On-grid electricity           NaN                           NaN                                  NaN
+freq     10632                             7134                             531       531           NaN            22185            10359       5658                28675           NaN                           NaN                                  NaN
+mean       NaN                              NaN                             NaN       NaN    420.592618              NaN              NaN        NaN                  NaN   2012.283437                  1.440929e+04                         3.452455e+03
+std        NaN                              NaN                             NaN       NaN    252.192524              NaN              NaN        NaN                  NaN      6.499073                  1.148906e+05                         2.715673e+04
+min        NaN                              NaN                             NaN       NaN      4.000000              NaN              NaN        NaN                  NaN   2000.000000                 -5.874050e+02                         1.000000e-03
+25%        NaN                              NaN                             NaN       NaN    203.000000              NaN              NaN        NaN                  NaN   2007.000000                  1.168300e+01                         5.000000e+00
+50%        NaN                              NaN                             NaN       NaN    404.000000              NaN              NaN        NaN                  NaN   2013.000000                  2.002570e+02                         5.890000e+01
+75%        NaN                              NaN                             NaN       NaN    634.000000              NaN              NaN        NaN                  NaN   2018.000000                  2.383631e+03                         6.325750e+02
+max        NaN                              NaN                             NaN       NaN    894.000000              NaN              NaN        NaN                  NaN   2022.000000                  5.220700e+06                         1.155325e+06
+
+
+Missing Value Summary:
+                       Feature Name  # Nulls  Null %    Type
+Electricity Installed Capacity (MW)     3599   10.23 Numeric
+
+Correlation matrix saved to Data_Analysis_Results/GlobalRenewEnergyProd_2000_2022/IRENA_RenewableEnergy_Statistics_2000-2022/IRENA_RenewableEnergy_Statistics_2000-2022_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/GlobalRenewEnergyProd_2000_2022/IRENA_RenewableEnergy_Statistics_2000-2022/IRENA_RenewableEnergy_Statistics_2000-2022_feature_histograms.png
+
+Feature Importance:
+Electricity Installed Capacity (MW)    0.384862
+Electricity Generation (GWh)           0.378972
+Year                                   0.236167

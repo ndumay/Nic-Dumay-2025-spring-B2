@@ -1,37 +1,35 @@
-Analysis Report: 13 installed-solar-PV-capacity
-========================================
+Analysis Report for: 13 installed-solar-PV-capacity
+==================================================
+
+Data Preview:
+   Entity Code  Year  Solar Capacity
+0  Africa  NaN  1996        0.001112
+1  Africa  NaN  1997        0.003137
+2  Africa  NaN  1998        0.005162
+3  Africa  NaN  1999        0.008199
+4  Africa  NaN  2000        0.010927
+
 Summary Statistics:
         Entity  Code         Year  Solar Capacity
 count     1659  1243  1659.000000     1659.000000
 unique      64    48          NaN             NaN
 top     Africa   DZA          NaN             NaN
 freq        26    26          NaN             NaN
-mean       NaN   NaN  2008.534058       12.335430
-std        NaN   NaN     7.487538       54.710201
+mean       NaN   NaN  2008.534057       12.335430
+std        NaN   NaN     7.487538       54.710200
 min        NaN   NaN  1996.000000        0.000000
 25%        NaN   NaN  2002.000000        0.001026
 50%        NaN   NaN  2009.000000        0.061000
-75%        NaN   NaN  2015.000000        1.924881
+75%        NaN   NaN  2015.000000        1.924880
 max        NaN   NaN  2021.000000      843.086060
 
-Missing Values:
-Entity             0.000000
-Code              25.075347
-Year               0.000000
-Solar Capacity     0.000000
 
-Empty Strings:
-Entity            0
-Code              0
-Year              0
-Solar Capacity    0
-
-Whitespace Only Strings:
-Entity            0
-Code              0
-Year              0
-Solar Capacity    0
+Missing Value Summary:
+Feature Name  # Nulls  Null %        Type
+        Code      416   25.08 Categorical
 
 Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/13 installed-solar-PV-capacity/13 installed-solar-PV-capacity_correlation_matrix.png
 Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/13 installed-solar-PV-capacity/13 installed-solar-PV-capacity_feature_histograms.png
-Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/13 installed-solar-PV-capacity/13 installed-solar-PV-capacity_feature_importance.png
+
+Feature Importance:
+Solar Capacity    1.0

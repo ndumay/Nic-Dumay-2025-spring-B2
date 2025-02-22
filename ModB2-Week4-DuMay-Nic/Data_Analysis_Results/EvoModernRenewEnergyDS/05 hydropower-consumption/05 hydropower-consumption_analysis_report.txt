@@ -1,0 +1,35 @@
+Analysis Report for: 05 hydropower-consumption
+==================================================
+
+Data Preview:
+        Entity Code  Year  Electricity from hydro (TWh)
+0  Afghanistan  AFG  2000                          0.31
+1  Afghanistan  AFG  2001                          0.50
+2  Afghanistan  AFG  2002                          0.56
+3  Afghanistan  AFG  2003                          0.63
+4  Afghanistan  AFG  2004                          0.56
+
+Summary Statistics:
+         Entity  Code         Year  Electricity from hydro (TWh)
+count      8840  7285  8840.000000                   8840.000000
+unique      251   217          NaN                           NaN
+top     Austria   AUT          NaN                           NaN
+freq         58    58          NaN                           NaN
+mean        NaN   NaN  1999.891516                    116.578505
+std         NaN   NaN    15.749636                    360.230480
+min         NaN   NaN  1965.000000                      0.000000
+25%         NaN   NaN  1988.000000                      0.090000
+50%         NaN   NaN  2004.000000                      3.525500
+75%         NaN   NaN  2013.000000                     30.067500
+max         NaN   NaN  2022.000000                   4340.610000
+
+
+Missing Value Summary:
+Feature Name  # Nulls  Null %        Type
+        Code     1555   17.59 Categorical
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/05 hydropower-consumption/05 hydropower-consumption_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/05 hydropower-consumption/05 hydropower-consumption_feature_histograms.png
+
+Feature Importance:
+Electricity from hydro (TWh)    1.0

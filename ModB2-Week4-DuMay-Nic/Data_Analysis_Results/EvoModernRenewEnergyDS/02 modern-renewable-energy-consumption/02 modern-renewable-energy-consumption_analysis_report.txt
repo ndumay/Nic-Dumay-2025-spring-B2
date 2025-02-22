@@ -1,0 +1,42 @@
+Analysis Report for: 02 modern-renewable-energy-consumption
+==================================================
+
+Data Preview:
+   Entity Code  Year  Geo Biomass Other - TWh  Solar Generation - TWh  Wind Generation - TWh  Hydro Generation - TWh
+0  Africa  NaN  1971                    0.164                     0.0                    0.0               26.013390
+1  Africa  NaN  1972                    0.165                     0.0                    0.0               29.633196
+2  Africa  NaN  1973                    0.170                     0.0                    0.0               31.345707
+3  Africa  NaN  1974                    0.175                     0.0                    0.0               35.667076
+4  Africa  NaN  1975                    0.172                     0.0                    0.0               37.717968
+
+Summary Statistics:
+        Entity  Code         Year  Geo Biomass Other - TWh  Solar Generation - TWh  Wind Generation - TWh  Hydro Generation - TWh
+count     5610  4299  5610.000000              5466.000000             5442.000000            5445.000000             5603.000000
+unique     104    81          NaN                      NaN                     NaN                    NaN                     NaN
+top     Africa   DZA          NaN                      NaN                     NaN                    NaN                     NaN
+freq        57    57          NaN                      NaN                     NaN                    NaN                     NaN
+mean       NaN   NaN  1993.834759                13.455595                5.480776              15.027906              147.892846
+std        NaN   NaN    16.301699                47.644151               39.895114              84.727689              390.187379
+min        NaN   NaN  1965.000000                 0.000000                0.000000               0.000000                0.000000
+25%        NaN   NaN  1980.000000                 0.000000                0.000000               0.000000                1.368538
+50%        NaN   NaN  1994.000000                 0.227000                0.000000               0.000000               10.693000
+75%        NaN   NaN  2008.000000                 4.270843                0.017030               0.276075               65.841800
+max        NaN   NaN  2021.000000               762.782650             1032.501200            1861.939800             4345.990000
+
+
+Missing Value Summary:
+           Feature Name  # Nulls  Null %        Type
+                   Code     1311   23.37 Categorical
+ Solar Generation - TWh      168    2.99     Numeric
+  Wind Generation - TWh      165    2.94     Numeric
+Geo Biomass Other - TWh      144    2.57     Numeric
+ Hydro Generation - TWh        7    0.12     Numeric
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/02 modern-renewable-energy-consumption/02 modern-renewable-energy-consumption_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/02 modern-renewable-energy-consumption/02 modern-renewable-energy-consumption_feature_histograms.png
+
+Feature Importance:
+Solar Generation - TWh     0.499098
+Wind Generation - TWh      0.206180
+Hydro Generation - TWh     0.203038
+Geo Biomass Other - TWh    0.091683

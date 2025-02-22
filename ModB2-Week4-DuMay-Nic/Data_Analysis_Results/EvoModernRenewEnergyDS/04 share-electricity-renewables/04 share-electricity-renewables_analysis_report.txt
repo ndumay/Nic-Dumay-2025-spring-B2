@@ -1,0 +1,35 @@
+Analysis Report for: 04 share-electricity-renewables
+==================================================
+
+Data Preview:
+        Entity Code  Year  Renewables (% electricity)
+0  Afghanistan  AFG  2000                   65.957440
+1  Afghanistan  AFG  2001                   84.745766
+2  Afghanistan  AFG  2002                   81.159424
+3  Afghanistan  AFG  2003                   67.021280
+4  Afghanistan  AFG  2004                   62.921350
+
+Summary Statistics:
+         Entity  Code         Year  Renewables (% electricity)
+count      6871  5781  6871.000000                 6871.000000
+unique      246   212          NaN                         NaN
+top     Austria   BEL          NaN                         NaN
+freq         38    38          NaN                         NaN
+mean        NaN   NaN  2006.532091                   30.103262
+std         NaN   NaN     9.626237                   30.808484
+min         NaN   NaN  1985.000000                    0.000000
+25%         NaN   NaN  2000.000000                    3.552926
+50%         NaN   NaN  2007.000000                   18.374070
+75%         NaN   NaN  2014.000000                   51.874399
+max         NaN   NaN  2022.000000                  100.000015
+
+
+Missing Value Summary:
+Feature Name  # Nulls  Null %        Type
+        Code     1090   15.86 Categorical
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/04 share-electricity-renewables/04 share-electricity-renewables_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/04 share-electricity-renewables/04 share-electricity-renewables_feature_histograms.png
+
+Feature Importance:
+Renewables (% electricity)    1.0

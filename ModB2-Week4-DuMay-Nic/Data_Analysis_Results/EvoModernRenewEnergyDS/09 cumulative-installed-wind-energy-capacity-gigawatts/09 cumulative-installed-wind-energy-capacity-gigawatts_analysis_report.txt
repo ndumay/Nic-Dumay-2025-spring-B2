@@ -1,37 +1,35 @@
-Analysis Report: 09 cumulative-installed-wind-energy-capacity-gigawatts
-========================================
+Analysis Report for: 09 cumulative-installed-wind-energy-capacity-gigawatts
+==================================================
+
+Data Preview:
+   Entity Code  Year  Wind Capacity
+0  Africa  NaN  1997        0.00600
+1  Africa  NaN  1998        0.01000
+2  Africa  NaN  1999        0.06400
+3  Africa  NaN  2000        0.13905
+4  Africa  NaN  2001        0.13905
+
 Summary Statistics:
        Entity      Code         Year  Wind Capacity
 count    1540      1143  1540.000000    1540.000000
 unique     62        46          NaN            NaN
 top     World  OWID_WRL          NaN            NaN
 freq       27        27          NaN            NaN
-mean      NaN       NaN  2009.068237      19.822411
+mean      NaN       NaN  2009.068182      19.822411
 std       NaN       NaN     7.187177      63.736134
 min       NaN       NaN  1995.000000       0.000000
 25%       NaN       NaN  2003.000000       0.082000
 50%       NaN       NaN  2009.000000       0.941650
 75%       NaN       NaN  2015.000000       6.096985
-max       NaN       NaN  2021.000000     824.874084
+max       NaN       NaN  2021.000000     824.874060
 
-Missing Values:
-Entity            0.000000
-Code             25.779221
-Year              0.000000
-Wind Capacity     0.000000
 
-Empty Strings:
-Entity           0
-Code             0
-Year             0
-Wind Capacity    0
-
-Whitespace Only Strings:
-Entity           0
-Code             0
-Year             0
-Wind Capacity    0
+Missing Value Summary:
+Feature Name  # Nulls  Null %        Type
+        Code      397   25.78 Categorical
 
 Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/09 cumulative-installed-wind-energy-capacity-gigawatts/09 cumulative-installed-wind-energy-capacity-gigawatts_correlation_matrix.png
 Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/09 cumulative-installed-wind-energy-capacity-gigawatts/09 cumulative-installed-wind-energy-capacity-gigawatts_feature_histograms.png
-Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/09 cumulative-installed-wind-energy-capacity-gigawatts/09 cumulative-installed-wind-energy-capacity-gigawatts_feature_importance.png
+
+Feature Importance:
+Wind Capacity    1.0
