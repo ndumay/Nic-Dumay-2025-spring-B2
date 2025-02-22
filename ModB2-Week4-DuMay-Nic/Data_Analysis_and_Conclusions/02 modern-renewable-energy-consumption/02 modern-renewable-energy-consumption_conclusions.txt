@@ -1,0 +1,34 @@
+## Conclusions:
+- Dataset contains 5610 rows and 7 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Year
+- Minimum: 1965, Maximum: 2021
+- Mean: 1993.83, Median: 1994.00, Mode: 1990.0
+- Skewness: Normal
+- Outliers: 0
+
+### Column: Geo Biomass Other - TWh
+- Minimum: 0.0, Maximum: 762.78265
+- Mean: 13.46, Median: 0.23, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 882
+
+### Column: Solar Generation - TWh
+- Minimum: 0.0, Maximum: 1032.5012
+- Mean: 5.48, Median: 0.00, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 1179
+
+### Column: Wind Generation - TWh
+- Minimum: 0.0, Maximum: 1861.9398
+- Mean: 15.03, Median: 0.00, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 1165
+
+### Column: Hydro Generation - TWh
+- Minimum: 0.0, Maximum: 4345.99
+- Mean: 147.89, Median: 10.69, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 1040

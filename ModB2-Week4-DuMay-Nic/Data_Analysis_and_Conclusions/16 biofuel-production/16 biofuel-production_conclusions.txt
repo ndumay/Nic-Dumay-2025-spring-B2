@@ -1,0 +1,16 @@
+## Conclusions:
+- Dataset contains 1081 rows and 4 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Year
+- Minimum: 1990, Maximum: 2021
+- Mean: 2005.83, Median: 2006.00, Mode: 2007.0
+- Skewness: Normal
+- Outliers: 0
+
+### Column: Biofuels Production - TWh - Total
+- Minimum: 0.0, Maximum: 1114.4883
+- Mean: 56.54, Median: 3.64, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 183

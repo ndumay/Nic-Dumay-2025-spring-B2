@@ -1,0 +1,16 @@
+## Conclusions:
+- Dataset contains 1659 rows and 4 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Year
+- Minimum: 1996, Maximum: 2021
+- Mean: 2008.53, Median: 2009.00, Mode: 2000.0
+- Skewness: Normal
+- Outliers: 0
+
+### Column: Solar Capacity
+- Minimum: 0.0, Maximum: 843.0860600000001
+- Mean: 12.34, Median: 0.06, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 274

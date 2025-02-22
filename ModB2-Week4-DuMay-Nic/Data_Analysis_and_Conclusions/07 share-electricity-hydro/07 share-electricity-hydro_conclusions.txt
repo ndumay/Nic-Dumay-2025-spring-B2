@@ -1,0 +1,16 @@
+## Conclusions:
+- Dataset contains 6925 rows and 4 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Year
+- Minimum: 1985, Maximum: 2022
+- Mean: 2006.37, Median: 2007.00, Mode: 2005.0
+- Skewness: Normal
+- Outliers: 0
+
+### Column: Hydro (% electricity)
+- Minimum: 0.0, Maximum: 100.00001
+- Mean: 25.60, Median: 13.94, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 0

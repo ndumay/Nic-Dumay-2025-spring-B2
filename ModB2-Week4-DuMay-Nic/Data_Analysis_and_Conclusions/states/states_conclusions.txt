@@ -1,0 +1,4 @@
+## Conclusions:
+- Dataset contains 51 rows and 3 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.

@@ -1,0 +1,16 @@
+## Conclusions:
+- Dataset contains 5445 rows and 4 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Year
+- Minimum: 1965, Maximum: 2021
+- Mean: 1994.37, Median: 1995.00, Mode: 1990.0
+- Skewness: Normal
+- Outliers: 0
+
+### Column: Wind (% equivalent primary energy)
+- Minimum: 0.0, Maximum: 24.614344
+- Mean: 0.44, Median: 0.00, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 1158

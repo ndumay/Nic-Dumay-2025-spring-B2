@@ -1,0 +1,16 @@
+## Conclusions:
+- Dataset contains 5603 rows and 4 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Year
+- Minimum: 1965, Maximum: 2021
+- Mean: 1993.80, Median: 1994.00, Mode: 1990.0
+- Skewness: Normal
+- Outliers: 0
+
+### Column: Hydro (% equivalent primary energy)
+- Minimum: 0.0, Maximum: 72.310486
+- Mean: 9.32, Median: 5.56, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 574

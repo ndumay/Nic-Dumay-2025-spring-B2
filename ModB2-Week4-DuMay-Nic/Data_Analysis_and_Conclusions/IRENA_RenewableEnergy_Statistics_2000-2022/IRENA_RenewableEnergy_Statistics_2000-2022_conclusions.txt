@@ -1,0 +1,28 @@
+## Conclusions:
+- Dataset contains 35193 rows and 12 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: M49 code
+- Minimum: 4, Maximum: 894
+- Mean: 420.59, Median: 404.00, Mode: 840
+- Skewness: Normal
+- Outliers: 0
+
+### Column: Year
+- Minimum: 2000, Maximum: 2022
+- Mean: 2012.28, Median: 2013.00, Mode: 2021
+- Skewness: Normal
+- Outliers: 0
+
+### Column: Electricity Generation (GWh)
+- Minimum: -587.405, Maximum: 5220700.0
+- Mean: 14409.29, Median: 200.26, Mode: 1.0
+- Skewness: Skewed
+- Outliers: 6221
+
+### Column: Electricity Installed Capacity (MW)
+- Minimum: 0.001, Maximum: 1155325.0
+- Mean: 3452.45, Median: 58.90, Mode: 2.0
+- Skewness: Skewed
+- Outliers: 5455

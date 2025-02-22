@@ -1,0 +1,16 @@
+## Conclusions:
+- Dataset contains 8676 rows and 4 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Year
+- Minimum: 1965, Maximum: 2022
+- Mean: 2000.34, Median: 2004.00, Mode: 2005.0
+- Skewness: Skewed
+- Outliers: 0
+
+### Column: Electricity from wind (TWh)
+- Minimum: 0.0, Maximum: 1848.26
+- Mean: 14.57, Median: 0.00, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 1898

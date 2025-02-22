@@ -1,0 +1,34 @@
+## Conclusions:
+- Dataset contains 8851 rows and 7 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Year
+- Minimum: 1965, Maximum: 2022
+- Mean: 1999.91, Median: 2004.00, Mode: 2005.0
+- Skewness: Skewed
+- Outliers: 0
+
+### Column: Electricity from wind (TWh)
+- Minimum: 0.0, Maximum: 1848.26
+- Mean: 14.57, Median: 0.00, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 1898
+
+### Column: Electricity from hydro (TWh)
+- Minimum: 0.0, Maximum: 4340.61
+- Mean: 116.58, Median: 3.53, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 1524
+
+### Column: Electricity from solar (TWh)
+- Minimum: 0.0, Maximum: 1040.5
+- Mean: 5.28, Median: 0.00, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 1822
+
+### Column: Other renewables including bioenergy (TWh)
+- Minimum: 0.0, Maximum: 761.93005
+- Mean: 12.24, Median: 0.02, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 1624

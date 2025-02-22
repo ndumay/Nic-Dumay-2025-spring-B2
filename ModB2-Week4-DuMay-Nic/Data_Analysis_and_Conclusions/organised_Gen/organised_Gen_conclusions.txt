@@ -1,0 +1,28 @@
+## Conclusions:
+- Dataset contains 496774 rows and 7 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Unnamed: 0
+- Minimum: 0, Maximum: 65144
+- Mean: 18143.27, Median: 15853.00, Mode: 0
+- Skewness: Skewed
+- Outliers: 16342
+
+### Column: YEAR
+- Minimum: 2001, Maximum: 2022
+- Mean: 2011.65, Median: 2012.00, Mode: 2020.0
+- Skewness: Normal
+- Outliers: 0
+
+### Column: MONTH
+- Minimum: 1, Maximum: 12
+- Mean: 6.43, Median: 6.00, Mode: 5.0
+- Skewness: Normal
+- Outliers: 0
+
+### Column: GENERATION (Megawatthours)
+- Minimum: -997855.0, Maximum: 421796659.0
+- Mean: 1393383.82, Median: 23301.03, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 93000

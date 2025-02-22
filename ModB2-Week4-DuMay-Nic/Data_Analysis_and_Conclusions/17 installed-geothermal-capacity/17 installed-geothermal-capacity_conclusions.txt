@@ -1,0 +1,16 @@
+## Conclusions:
+- Dataset contains 758 rows and 4 columns.
+- Means, medians, and modes calculated.
+- Histograms and bar plots generated.
+
+### Column: Year
+- Minimum: 1975, Maximum: 2020
+- Mean: 2008.45, Median: 2009.00, Mode: 2000
+- Skewness: Skewed
+- Outliers: 2
+
+### Column: Geothermal Capacity
+- Minimum: 0.0, Maximum: 14075.0
+- Mean: 919.94, Median: 145.00, Mode: 0.0
+- Skewness: Skewed
+- Outliers: 100
