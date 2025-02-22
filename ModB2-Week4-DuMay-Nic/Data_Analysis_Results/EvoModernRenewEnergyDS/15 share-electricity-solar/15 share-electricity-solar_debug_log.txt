@@ -1,0 +1,16 @@
+2025-02-22 06:34:40,673 - INFO - Starting analysis for: 15 share-electricity-solar
+2025-02-22 06:34:40,690 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:40,700 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:40,709 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:40,712 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:40,715 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:40,717 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:40,719 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:40,719 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:40,863 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/15 share-electricity-solar/15 share-electricity-solar_correlation_matrix.png
+2025-02-22 06:34:40,865 - DEBUG - Found 0 heavily correlated feature pairs.
+2025-02-22 06:34:40,866 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:41,207 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/15 share-electricity-solar/15 share-electricity-solar_feature_histograms.png
+2025-02-22 06:34:41,209 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:41,718 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/15 share-electricity-solar/15 share-electricity-solar_feature_importance.png
+2025-02-22 06:34:41,728 - INFO - Completed analysis for: 15 share-electricity-solar

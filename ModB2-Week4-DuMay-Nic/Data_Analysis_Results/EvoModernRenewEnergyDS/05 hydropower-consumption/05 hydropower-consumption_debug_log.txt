@@ -1,0 +1,16 @@
+2025-02-22 06:34:35,999 - INFO - Starting analysis for: 05 hydropower-consumption
+2025-02-22 06:34:36,022 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:36,033 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:36,044 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:36,047 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:36,051 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:36,053 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:36,055 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:36,055 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:36,190 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/05 hydropower-consumption/05 hydropower-consumption_correlation_matrix.png
+2025-02-22 06:34:36,192 - DEBUG - Found 0 heavily correlated feature pairs.
+2025-02-22 06:34:36,193 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:36,521 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/05 hydropower-consumption/05 hydropower-consumption_feature_histograms.png
+2025-02-22 06:34:36,523 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:37,646 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/05 hydropower-consumption/05 hydropower-consumption_feature_importance.png
+2025-02-22 06:34:37,648 - INFO - Completed analysis for: 05 hydropower-consumption

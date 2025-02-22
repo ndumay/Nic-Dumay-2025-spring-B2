@@ -1,0 +1,16 @@
+2025-02-22 06:34:33,005 - INFO - Starting analysis for: 01 renewable-share-energy
+2025-02-22 06:34:33,019 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:33,028 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:33,036 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:33,038 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:33,042 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:33,044 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:33,046 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:33,047 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:33,433 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/01 renewable-share-energy/01 renewable-share-energy_correlation_matrix.png
+2025-02-22 06:34:33,435 - DEBUG - Found 0 heavily correlated feature pairs.
+2025-02-22 06:34:33,436 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:33,787 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/01 renewable-share-energy/01 renewable-share-energy_feature_histograms.png
+2025-02-22 06:34:33,788 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:34,823 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/01 renewable-share-energy/01 renewable-share-energy_feature_importance.png
+2025-02-22 06:34:34,825 - INFO - Completed analysis for: 01 renewable-share-energy

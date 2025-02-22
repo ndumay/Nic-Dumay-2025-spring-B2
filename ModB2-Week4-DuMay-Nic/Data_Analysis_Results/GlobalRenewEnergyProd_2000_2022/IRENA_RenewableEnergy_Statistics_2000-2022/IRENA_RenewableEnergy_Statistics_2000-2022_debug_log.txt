@@ -1,0 +1,16 @@
+2025-02-22 06:34:07,289 - INFO - Starting analysis for: IRENA_RenewableEnergy_Statistics_2000-2022
+2025-02-22 06:34:07,525 - INFO - Dataset loaded with ISO-8859-1 encoding after fallback.
+2025-02-22 06:34:07,567 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:07,683 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:07,686 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:07,710 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:07,712 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:07,726 - DEBUG - Identified 8 categorical columns.
+2025-02-22 06:34:07,727 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:08,018 - INFO - Correlation matrix saved: Data_Analysis_Results/GlobalRenewEnergyProd_2000_2022/IRENA_RenewableEnergy_Statistics_2000-2022/IRENA_RenewableEnergy_Statistics_2000-2022_correlation_matrix.png
+2025-02-22 06:34:08,020 - DEBUG - Found 2 heavily correlated feature pairs.
+2025-02-22 06:34:08,020 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:08,783 - INFO - Feature histograms saved: Data_Analysis_Results/GlobalRenewEnergyProd_2000_2022/IRENA_RenewableEnergy_Statistics_2000-2022/IRENA_RenewableEnergy_Statistics_2000-2022_feature_histograms.png
+2025-02-22 06:34:08,784 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:20,251 - INFO - Feature importance plot saved: Data_Analysis_Results/GlobalRenewEnergyProd_2000_2022/IRENA_RenewableEnergy_Statistics_2000-2022/IRENA_RenewableEnergy_Statistics_2000-2022_feature_importance.png
+2025-02-22 06:34:20,253 - INFO - Completed analysis for: IRENA_RenewableEnergy_Statistics_2000-2022

@@ -1,0 +1,16 @@
+2025-02-22 06:34:30,991 - INFO - Starting analysis for: 13 installed-solar-PV-capacity
+2025-02-22 06:34:30,997 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:31,006 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:31,010 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:31,013 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:31,016 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:31,018 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:31,020 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:31,020 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:31,187 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/13 installed-solar-PV-capacity/13 installed-solar-PV-capacity_correlation_matrix.png
+2025-02-22 06:34:31,189 - DEBUG - Found 0 heavily correlated feature pairs.
+2025-02-22 06:34:31,189 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:31,712 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/13 installed-solar-PV-capacity/13 installed-solar-PV-capacity_feature_histograms.png
+2025-02-22 06:34:31,714 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:32,027 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/13 installed-solar-PV-capacity/13 installed-solar-PV-capacity_feature_importance.png
+2025-02-22 06:34:32,030 - INFO - Completed analysis for: 13 installed-solar-PV-capacity

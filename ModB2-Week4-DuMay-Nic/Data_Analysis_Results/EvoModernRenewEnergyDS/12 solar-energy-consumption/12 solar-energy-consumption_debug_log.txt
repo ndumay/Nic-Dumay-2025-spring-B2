@@ -1,0 +1,16 @@
+2025-02-22 06:34:26,464 - INFO - Starting analysis for: 12 solar-energy-consumption
+2025-02-22 06:34:26,499 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:26,514 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:26,529 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:26,531 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:26,536 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:26,538 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:26,540 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:26,541 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:26,698 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/12 solar-energy-consumption/12 solar-energy-consumption_correlation_matrix.png
+2025-02-22 06:34:26,700 - DEBUG - Found 0 heavily correlated feature pairs.
+2025-02-22 06:34:26,701 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:27,101 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/12 solar-energy-consumption/12 solar-energy-consumption_feature_histograms.png
+2025-02-22 06:34:27,102 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:27,455 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/12 solar-energy-consumption/12 solar-energy-consumption_feature_importance.png
+2025-02-22 06:34:27,457 - INFO - Completed analysis for: 12 solar-energy-consumption

@@ -1,0 +1,60 @@
+Analysis Report for: 06 hydro-share-energy
+==================================================
+
+Data Preview:
+   Entity Code  Year  Hydro (% equivalent primary energy)
+0  Africa  NaN  1965                             5.747495
+1  Africa  NaN  1966                             6.122062
+2  Africa  NaN  1967                             6.325731
+3  Africa  NaN  1968                             7.005293
+4  Africa  NaN  1969                             7.956088
+
+Summary Statistics:
+        Entity  Code         Year  Hydro (% equivalent primary energy)
+count     5603  4292  5603.000000                          5603.000000
+unique     104    81          NaN                                  NaN
+top     Africa   DZA          NaN                                  NaN
+freq        57    57          NaN                                  NaN
+mean       NaN   NaN  1993.800821                             9.321855
+std        NaN   NaN    16.283556                            11.947563
+min        NaN   NaN  1965.000000                             0.000000
+25%        NaN   NaN  1980.000000                             1.210476
+50%        NaN   NaN  1994.000000                             5.561826
+75%        NaN   NaN  2008.000000                            11.462906
+max        NaN   NaN  2021.000000                            72.310486
+
+Missing Values:
+                                        0         1
+Entity                                  0   0.00000
+Code                                 1311  23.39818
+Year                                    0   0.00000
+Hydro (% equivalent primary energy)     0   0.00000
+
+Empty Strings:
+Entity                                 0
+Code                                   0
+Year                                   0
+Hydro (% equivalent primary energy)    0
+
+Whitespace-Only Strings:
+Entity                                 0
+Code                                   0
+Year                                   0
+Hydro (% equivalent primary energy)    0
+
+Null Value Analysis:
+  Feature  # Null Values  Null %         Type
+0    Code           1311    23.4  Categorical
+
+Categorical Columns:
+Entity, Code
+Encoding Suggestions:
+Entity: Consider Label Encoding (High cardinality)
+Code: Consider Label Encoding (High cardinality)
+
+Correlation Matrix:
+No heavily correlated features found.
+
+
+Feature Importance:
+Hydro (% equivalent primary energy)    1.0

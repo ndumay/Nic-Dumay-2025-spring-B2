@@ -1,0 +1,16 @@
+2025-02-22 06:34:37,650 - INFO - Starting analysis for: 03 modern-renewable-prod
+2025-02-22 06:34:37,907 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:37,926 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:37,957 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:37,960 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:37,966 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:37,969 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:37,972 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:37,973 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:38,195 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/03 modern-renewable-prod/03 modern-renewable-prod_correlation_matrix.png
+2025-02-22 06:34:38,197 - DEBUG - Found 8 heavily correlated feature pairs.
+2025-02-22 06:34:38,198 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:38,959 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/03 modern-renewable-prod/03 modern-renewable-prod_feature_histograms.png
+2025-02-22 06:34:38,961 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:40,669 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/03 modern-renewable-prod/03 modern-renewable-prod_feature_importance.png
+2025-02-22 06:34:40,671 - INFO - Completed analysis for: 03 modern-renewable-prod

@@ -1,0 +1,16 @@
+2025-02-22 06:34:30,036 - INFO - Starting analysis for: 09 cumulative-installed-wind-energy-capacity-gigawatts
+2025-02-22 06:34:30,043 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:30,051 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:30,055 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:30,057 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:30,060 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:30,062 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:30,064 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:30,065 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:30,347 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/09 cumulative-installed-wind-energy-capacity-gigawatts/09 cumulative-installed-wind-energy-capacity-gigawatts_correlation_matrix.png
+2025-02-22 06:34:30,349 - DEBUG - Found 0 heavily correlated feature pairs.
+2025-02-22 06:34:30,350 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:30,688 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/09 cumulative-installed-wind-energy-capacity-gigawatts/09 cumulative-installed-wind-energy-capacity-gigawatts_feature_histograms.png
+2025-02-22 06:34:30,690 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:30,986 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/09 cumulative-installed-wind-energy-capacity-gigawatts/09 cumulative-installed-wind-energy-capacity-gigawatts_feature_importance.png
+2025-02-22 06:34:30,989 - INFO - Completed analysis for: 09 cumulative-installed-wind-energy-capacity-gigawatts

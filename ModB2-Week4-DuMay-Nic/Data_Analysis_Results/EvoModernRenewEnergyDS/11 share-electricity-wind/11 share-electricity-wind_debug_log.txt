@@ -1,0 +1,16 @@
+2025-02-22 06:34:20,256 - INFO - Starting analysis for: 11 share-electricity-wind
+2025-02-22 06:34:20,274 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:20,283 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:20,293 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:20,294 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:20,298 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:20,299 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:20,301 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:20,302 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:20,440 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/11 share-electricity-wind/11 share-electricity-wind_correlation_matrix.png
+2025-02-22 06:34:20,441 - DEBUG - Found 0 heavily correlated feature pairs.
+2025-02-22 06:34:20,442 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:20,797 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/11 share-electricity-wind/11 share-electricity-wind_feature_histograms.png
+2025-02-22 06:34:20,799 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:21,329 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/11 share-electricity-wind/11 share-electricity-wind_feature_importance.png
+2025-02-22 06:34:21,331 - INFO - Completed analysis for: 11 share-electricity-wind

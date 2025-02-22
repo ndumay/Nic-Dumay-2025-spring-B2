@@ -1,0 +1,16 @@
+2025-02-22 06:34:28,478 - INFO - Starting analysis for: 06 hydro-share-energy
+2025-02-22 06:34:28,494 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:28,503 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:28,512 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:28,514 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:28,517 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:28,519 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:28,522 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:28,523 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:28,697 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/06 hydro-share-energy/06 hydro-share-energy_correlation_matrix.png
+2025-02-22 06:34:28,699 - DEBUG - Found 0 heavily correlated feature pairs.
+2025-02-22 06:34:28,700 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:29,159 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/06 hydro-share-energy/06 hydro-share-energy_feature_histograms.png
+2025-02-22 06:34:29,161 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:30,032 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/06 hydro-share-energy/06 hydro-share-energy_feature_importance.png
+2025-02-22 06:34:30,034 - INFO - Completed analysis for: 06 hydro-share-energy

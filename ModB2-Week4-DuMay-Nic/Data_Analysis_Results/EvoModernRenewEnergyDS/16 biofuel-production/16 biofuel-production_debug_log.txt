@@ -1,0 +1,16 @@
+2025-02-22 06:34:43,470 - INFO - Starting analysis for: 16 biofuel-production
+2025-02-22 06:34:43,475 - INFO - Dataset loaded with UTF-8 encoding.
+2025-02-22 06:34:43,483 - DEBUG - Starting missing and empty value analysis.
+2025-02-22 06:34:43,487 - DEBUG - Completed missing and empty value analysis.
+2025-02-22 06:34:43,489 - DEBUG - Analyzing null counts per feature.
+2025-02-22 06:34:43,492 - DEBUG - Null count analysis completed.
+2025-02-22 06:34:43,494 - DEBUG - Analyzing categorical columns for encoding suggestions.
+2025-02-22 06:34:43,496 - DEBUG - Identified 2 categorical columns.
+2025-02-22 06:34:43,497 - DEBUG - Generating correlation matrix.
+2025-02-22 06:34:43,646 - INFO - Correlation matrix saved: Data_Analysis_Results/EvoModernRenewEnergyDS/16 biofuel-production/16 biofuel-production_correlation_matrix.png
+2025-02-22 06:34:43,648 - DEBUG - Found 0 heavily correlated feature pairs.
+2025-02-22 06:34:43,649 - DEBUG - Creating feature histograms.
+2025-02-22 06:34:44,043 - INFO - Feature histograms saved: Data_Analysis_Results/EvoModernRenewEnergyDS/16 biofuel-production/16 biofuel-production_feature_histograms.png
+2025-02-22 06:34:44,045 - DEBUG - Calculating feature importance.
+2025-02-22 06:34:44,290 - INFO - Feature importance plot saved: Data_Analysis_Results/EvoModernRenewEnergyDS/16 biofuel-production/16 biofuel-production_feature_importance.png
+2025-02-22 06:34:44,293 - INFO - Completed analysis for: 16 biofuel-production

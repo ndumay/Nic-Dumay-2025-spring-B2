@@ -1,0 +1,60 @@
+Analysis Report for: 17 installed-geothermal-capacity
+==================================================
+
+Data Preview:
+   Entity Code  Year  Geothermal Capacity
+0  Africa  NaN  1990                 45.0
+1  Africa  NaN  1995                 45.0
+2  Africa  NaN  2000                 65.3
+3  Africa  NaN  2001                 65.3
+4  Africa  NaN  2002                 65.3
+
+Summary Statistics:
+       Entity      Code         Year  Geothermal Capacity
+count     758       576   758.000000           758.000000
+unique     33        25          NaN                  NaN
+top     World  OWID_WRL          NaN                  NaN
+freq       26        26          NaN                  NaN
+mean      NaN       NaN  2008.449868           919.938545
+std       NaN       NaN     7.770961          1948.331585
+min       NaN       NaN  1975.000000             0.000000
+25%       NaN       NaN  2003.000000            16.300000
+50%       NaN       NaN  2009.000000           145.000000
+75%       NaN       NaN  2015.000000           818.250000
+max       NaN       NaN  2020.000000         14075.000000
+
+Missing Values:
+                       0          1
+Entity                 0   0.000000
+Code                 182  24.010554
+Year                   0   0.000000
+Geothermal Capacity    0   0.000000
+
+Empty Strings:
+Entity                 0
+Code                   0
+Year                   0
+Geothermal Capacity    0
+
+Whitespace-Only Strings:
+Entity                 0
+Code                   0
+Year                   0
+Geothermal Capacity    0
+
+Null Value Analysis:
+  Feature  # Null Values  Null %         Type
+0    Code            182   24.01  Categorical
+
+Categorical Columns:
+Entity, Code
+Encoding Suggestions:
+Entity: Consider Label Encoding (High cardinality)
+Code: Consider Label Encoding (High cardinality)
+
+Correlation Matrix:
+No heavily correlated features found.
+
+
+Feature Importance:
+Geothermal Capacity    1.0
