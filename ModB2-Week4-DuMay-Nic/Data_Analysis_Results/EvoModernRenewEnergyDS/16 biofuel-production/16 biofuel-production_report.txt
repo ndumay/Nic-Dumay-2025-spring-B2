@@ -1,0 +1,37 @@
+Analysis Report: 16 biofuel-production
+========================================
+Summary Statistics:
+             Entity Code         Year  Biofuels Production - TWh - Total
+count          1081  800  1081.000000                        1081.000000
+unique           35   25          NaN                                NaN
+top     Africa (BP)  ARG          NaN                                NaN
+freq             32   32          NaN                                NaN
+mean            NaN  NaN  2005.830688                          56.543884
+std             NaN  NaN     9.197525                         138.262878
+min             NaN  NaN  1990.000000                           0.000000
+25%             NaN  NaN  1998.000000                           0.000000
+50%             NaN  NaN  2006.000000                           3.642700
+75%             NaN  NaN  2014.000000                          32.786575
+max             NaN  NaN  2021.000000                        1114.488281
+
+Missing Values:
+Entity                                0.00000
+Code                                 25.99445
+Year                                  0.00000
+Biofuels Production - TWh - Total     0.00000
+
+Empty Strings:
+Entity                               0
+Code                                 0
+Year                                 0
+Biofuels Production - TWh - Total    0
+
+Whitespace Only Strings:
+Entity                               0
+Code                                 0
+Year                                 0
+Biofuels Production - TWh - Total    0
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/16 biofuel-production/16 biofuel-production_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/16 biofuel-production/16 biofuel-production_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/16 biofuel-production/16 biofuel-production_feature_importance.png

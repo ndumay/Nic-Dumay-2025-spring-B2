@@ -1,0 +1,37 @@
+Analysis Report: 14 solar-share-energy
+========================================
+Summary Statistics:
+           Entity  Code         Year  Solar (% equivalent primary energy)
+count        5442  4230  5442.000000                          5442.000000
+unique        104    81          NaN                                  NaN
+top     Argentina   DZA          NaN                                  NaN
+freq           57    57          NaN                                  NaN
+mean          NaN   NaN  1994.385864                             0.129722
+std           NaN   NaN    16.168541                             0.475133
+min           NaN   NaN  1965.000000                             0.000000
+25%           NaN   NaN  1981.000000                             0.000000
+50%           NaN   NaN  1995.000000                             0.000000
+75%           NaN   NaN  2008.000000                             0.003650
+max           NaN   NaN  2021.000000                             5.999279
+
+Missing Values:
+Entity                                  0.000000
+Code                                   22.271224
+Year                                    0.000000
+Solar (% equivalent primary energy)     0.000000
+
+Empty Strings:
+Entity                                 0
+Code                                   0
+Year                                   0
+Solar (% equivalent primary energy)    0
+
+Whitespace Only Strings:
+Entity                                 0
+Code                                   0
+Year                                   0
+Solar (% equivalent primary energy)    0
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/14 solar-share-energy/14 solar-share-energy_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/14 solar-share-energy/14 solar-share-energy_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/14 solar-share-energy/14 solar-share-energy_feature_importance.png

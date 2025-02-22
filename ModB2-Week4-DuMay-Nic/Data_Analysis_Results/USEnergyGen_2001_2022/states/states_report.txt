@@ -1,0 +1,27 @@
+Analysis Report: states
+========================================
+Summary Statistics:
+          State Abbrev Code
+count        51     51   51
+unique       51     51   51
+top     Alabama   Ala.   AL
+freq          1      1    1
+
+Missing Values:
+State     0.0
+Abbrev    0.0
+Code      0.0
+
+Empty Strings:
+State     0
+Abbrev    0
+Code      0
+
+Whitespace Only Strings:
+State     0
+Abbrev    0
+Code      0
+
+No numerical columns for correlation analysis.
+No numerical columns to plot.
+Insufficient numerical features for feature importance.

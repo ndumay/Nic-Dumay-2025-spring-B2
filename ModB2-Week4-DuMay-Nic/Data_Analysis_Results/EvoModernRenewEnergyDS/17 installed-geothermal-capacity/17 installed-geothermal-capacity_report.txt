@@ -1,0 +1,37 @@
+Analysis Report: 17 installed-geothermal-capacity
+========================================
+Summary Statistics:
+       Entity      Code         Year  Geothermal Capacity
+count     758       576   758.000000           758.000000
+unique     33        25          NaN                  NaN
+top     World  OWID_WRL          NaN                  NaN
+freq       26        26          NaN                  NaN
+mean      NaN       NaN  2008.449829           919.938477
+std       NaN       NaN     7.770961          1948.331543
+min       NaN       NaN  1975.000000             0.000000
+25%       NaN       NaN  2003.000000            16.299999
+50%       NaN       NaN  2009.000000           145.000000
+75%       NaN       NaN  2015.000000           818.250000
+max       NaN       NaN  2020.000000         14075.000000
+
+Missing Values:
+Entity                  0.000000
+Code                   24.010554
+Year                    0.000000
+Geothermal Capacity     0.000000
+
+Empty Strings:
+Entity                 0
+Code                   0
+Year                   0
+Geothermal Capacity    0
+
+Whitespace Only Strings:
+Entity                 0
+Code                   0
+Year                   0
+Geothermal Capacity    0
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/17 installed-geothermal-capacity/17 installed-geothermal-capacity_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/17 installed-geothermal-capacity/17 installed-geothermal-capacity_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/17 installed-geothermal-capacity/17 installed-geothermal-capacity_feature_importance.png

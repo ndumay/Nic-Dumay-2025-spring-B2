@@ -1,0 +1,37 @@
+Analysis Report: 10 wind-share-energy
+========================================
+Summary Statistics:
+        Entity  Code         Year  Wind (% equivalent primary energy)
+count     5445  4230  5445.000000                         5445.000000
+unique     104    81          NaN                                 NaN
+top     Africa   DZA          NaN                                 NaN
+freq        57    57          NaN                                 NaN
+mean       NaN   NaN  1994.368652                            0.440741
+std        NaN   NaN    16.180258                            1.533420
+min        NaN   NaN  1965.000000                            0.000000
+25%        NaN   NaN  1981.000000                            0.000000
+50%        NaN   NaN  1995.000000                            0.000000
+75%        NaN   NaN  2008.000000                            0.052514
+max        NaN   NaN  2021.000000                           24.614344
+
+Missing Values:
+Entity                                 0.00000
+Code                                  22.31405
+Year                                   0.00000
+Wind (% equivalent primary energy)     0.00000
+
+Empty Strings:
+Entity                                0
+Code                                  0
+Year                                  0
+Wind (% equivalent primary energy)    0
+
+Whitespace Only Strings:
+Entity                                0
+Code                                  0
+Year                                  0
+Wind (% equivalent primary energy)    0
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/10 wind-share-energy/10 wind-share-energy_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/10 wind-share-energy/10 wind-share-energy_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/10 wind-share-energy/10 wind-share-energy_feature_importance.png

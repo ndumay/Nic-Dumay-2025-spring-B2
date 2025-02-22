@@ -1,0 +1,37 @@
+Analysis Report: 11 share-electricity-wind
+========================================
+Summary Statistics:
+         Entity  Code         Year  Wind (% electricity)
+count      6871  5781  6871.000000           6871.000000
+unique      246   212          NaN                   NaN
+top     Austria   BEL          NaN                   NaN
+freq         38    38          NaN                   NaN
+mean        NaN   NaN  2006.532104              1.358413
+std         NaN   NaN     9.626237              4.443913
+min         NaN   NaN  1985.000000              0.000000
+25%         NaN   NaN  2000.000000              0.000000
+50%         NaN   NaN  2007.000000              0.000000
+75%         NaN   NaN  2014.000000              0.325835
+max         NaN   NaN  2022.000000             56.839542
+
+Missing Values:
+Entity                   0.000000
+Code                    15.863775
+Year                     0.000000
+Wind (% electricity)     0.000000
+
+Empty Strings:
+Entity                  0
+Code                    0
+Year                    0
+Wind (% electricity)    0
+
+Whitespace Only Strings:
+Entity                  0
+Code                    0
+Year                    0
+Wind (% electricity)    0
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/11 share-electricity-wind/11 share-electricity-wind_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/11 share-electricity-wind/11 share-electricity-wind_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/11 share-electricity-wind/11 share-electricity-wind_feature_importance.png

@@ -1,0 +1,46 @@
+Analysis Report: 03 modern-renewable-prod
+========================================
+Summary Statistics:
+         Entity  Code         Year  Electricity from wind (TWh)  Electricity from hydro (TWh)  Electricity from solar (TWh)  Other renewables including bioenergy (TWh)
+count      8851  7296  8851.000000                  8676.000000                   8840.000000                   8683.000000                                 8631.000000
+unique      251   217          NaN                          NaN                           NaN                           NaN                                         NaN
+top     Austria   AUT          NaN                          NaN                           NaN                           NaN                                         NaN
+freq         58    58          NaN                          NaN                           NaN                           NaN                                         NaN
+mean        NaN   NaN  1999.912720                    14.571143                    116.578506                      5.277942                                   12.240020
+std         NaN   NaN    15.751622                    86.388161                    360.230469                     40.098862                                   48.351200
+min         NaN   NaN  1965.000000                     0.000000                      0.000000                      0.000000                                    0.000000
+25%         NaN   NaN  1988.000000                     0.000000                      0.090000                      0.000000                                    0.000000
+50%         NaN   NaN  2004.000000                     0.000000                      3.525500                      0.000000                                    0.020000
+75%         NaN   NaN  2013.000000                     0.059000                     30.067499                      0.010000                                    1.610000
+max         NaN   NaN  2022.000000                  1848.260010                   4340.609863                   1040.500000                                  761.930054
+
+Missing Values:
+Entity                                         0.000000
+Code                                          17.568636
+Year                                           0.000000
+Electricity from wind (TWh)                    1.977178
+Electricity from hydro (TWh)                   0.124280
+Electricity from solar (TWh)                   1.898091
+Other renewables including bioenergy (TWh)     2.485595
+
+Empty Strings:
+Entity                                        0
+Code                                          0
+Year                                          0
+Electricity from wind (TWh)                   0
+Electricity from hydro (TWh)                  0
+Electricity from solar (TWh)                  0
+Other renewables including bioenergy (TWh)    0
+
+Whitespace Only Strings:
+Entity                                        0
+Code                                          0
+Year                                          0
+Electricity from wind (TWh)                   0
+Electricity from hydro (TWh)                  0
+Electricity from solar (TWh)                  0
+Other renewables including bioenergy (TWh)    0
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/03 modern-renewable-prod/03 modern-renewable-prod_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/03 modern-renewable-prod/03 modern-renewable-prod_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/03 modern-renewable-prod/03 modern-renewable-prod_feature_importance.png

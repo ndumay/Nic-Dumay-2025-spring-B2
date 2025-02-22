@@ -1,0 +1,37 @@
+Analysis Report: 12 solar-energy-consumption
+========================================
+Summary Statistics:
+         Entity  Code         Year  Electricity from solar (TWh)
+count      8683  7227  8683.000000                   8683.000000
+unique      251   217          NaN                           NaN
+top     Austria   AUT          NaN                           NaN
+freq         58    58          NaN                           NaN
+mean        NaN   NaN  2000.375732                      5.277941
+std         NaN   NaN    15.495957                     40.098862
+min         NaN   NaN  1965.000000                      0.000000
+25%         NaN   NaN  1990.000000                      0.000000
+50%         NaN   NaN  2004.000000                      0.000000
+75%         NaN   NaN  2013.000000                      0.010000
+max         NaN   NaN  2022.000000                   1040.500000
+
+Missing Values:
+Entity                           0.000000
+Code                            16.768398
+Year                             0.000000
+Electricity from solar (TWh)     0.000000
+
+Empty Strings:
+Entity                          0
+Code                            0
+Year                            0
+Electricity from solar (TWh)    0
+
+Whitespace Only Strings:
+Entity                          0
+Code                            0
+Year                            0
+Electricity from solar (TWh)    0
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/12 solar-energy-consumption/12 solar-energy-consumption_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/12 solar-energy-consumption/12 solar-energy-consumption_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/12 solar-energy-consumption/12 solar-energy-consumption_feature_importance.png

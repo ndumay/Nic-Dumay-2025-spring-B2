@@ -1,0 +1,37 @@
+Analysis Report: 01 renewable-share-energy
+========================================
+Summary Statistics:
+        Entity  Code         Year  Renewables (% equivalent primary energy)
+count     5603  4292  5603.000000                               5603.000000
+unique     104    81          NaN                                       NaN
+top     Africa   DZA          NaN                                       NaN
+freq        57    57          NaN                                       NaN
+mean       NaN   NaN  1993.800781                                 10.735584
+std        NaN   NaN    16.283556                                 12.923945
+min        NaN   NaN  1965.000000                                  0.000000
+25%        NaN   NaN  1980.000000                                  1.980135
+50%        NaN   NaN  1994.000000                                  6.522184
+75%        NaN   NaN  2008.000000                                 14.099622
+max        NaN   NaN  2021.000000                                 86.874535
+
+Missing Values:
+Entity                                       0.00000
+Code                                        23.39818
+Year                                         0.00000
+Renewables (% equivalent primary energy)     0.00000
+
+Empty Strings:
+Entity                                      0
+Code                                        0
+Year                                        0
+Renewables (% equivalent primary energy)    0
+
+Whitespace Only Strings:
+Entity                                      0
+Code                                        0
+Year                                        0
+Renewables (% equivalent primary energy)    0
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/01 renewable-share-energy/01 renewable-share-energy_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/01 renewable-share-energy/01 renewable-share-energy_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/01 renewable-share-energy/01 renewable-share-energy_feature_importance.png

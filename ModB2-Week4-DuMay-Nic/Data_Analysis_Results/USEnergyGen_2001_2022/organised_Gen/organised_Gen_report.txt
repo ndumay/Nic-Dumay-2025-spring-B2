@@ -1,0 +1,46 @@
+Analysis Report: organised_Gen
+========================================
+Summary Statistics:
+           Unnamed: 0           YEAR          MONTH     STATE               TYPE OF PRODUCER ENERGY SOURCE  GENERATION (Megawatthours)
+count   496774.000000  496774.000000  496774.000000    496774                         496774        496774                4.967740e+05
+unique            NaN            NaN            NaN        52                              6            14                         NaN
+top               NaN            NaN            NaN  US-TOTAL  Total Electric Power Industry         Total                         NaN
+freq              NaN            NaN            NaN     18322                         134452         73356                         NaN
+mean     18143.271484    2011.649658       6.431452       NaN                            NaN           NaN                1.393384e+06
+std      13387.090820       6.168041       3.458944       NaN                            NaN           NaN                1.078685e+07
+min          0.000000    2001.000000       1.000000       NaN                            NaN           NaN               -9.978550e+05
+25%       7762.000000    2006.000000       3.000000       NaN                            NaN           NaN                1.643000e+03
+50%      15853.000000    2012.000000       6.000000       NaN                            NaN           NaN                2.330103e+04
+75%      24178.000000    2017.000000       9.000000       NaN                            NaN           NaN                2.792042e+05
+max      65144.000000    2022.000000      12.000000       NaN                            NaN           NaN                4.217967e+08
+
+Missing Values:
+Unnamed: 0                    0.0
+YEAR                          0.0
+MONTH                         0.0
+STATE                         0.0
+TYPE OF PRODUCER              0.0
+ENERGY SOURCE                 0.0
+GENERATION (Megawatthours)    0.0
+
+Empty Strings:
+Unnamed: 0                    0
+YEAR                          0
+MONTH                         0
+STATE                         0
+TYPE OF PRODUCER              0
+ENERGY SOURCE                 0
+GENERATION (Megawatthours)    0
+
+Whitespace Only Strings:
+Unnamed: 0                    0
+YEAR                          0
+MONTH                         0
+STATE                         0
+TYPE OF PRODUCER              0
+ENERGY SOURCE                 0
+GENERATION (Megawatthours)    0
+
+Correlation matrix saved to Data_Analysis_Results/USEnergyGen_2001_2022/organised_Gen/organised_Gen_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/USEnergyGen_2001_2022/organised_Gen/organised_Gen_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/USEnergyGen_2001_2022/organised_Gen/organised_Gen_feature_importance.png

@@ -1,0 +1,37 @@
+Analysis Report: 08 wind-generation
+========================================
+Summary Statistics:
+         Entity  Code         Year  Electricity from wind (TWh)
+count      8676  7217  8676.000000                  8676.000000
+unique      251   217          NaN                          NaN
+top     Austria   AUT          NaN                          NaN
+freq         58    58          NaN                          NaN
+mean        NaN   NaN  2000.344116                    14.571142
+std         NaN   NaN    15.507389                    86.388161
+min         NaN   NaN  1965.000000                     0.000000
+25%         NaN   NaN  1990.000000                     0.000000
+50%         NaN   NaN  2004.000000                     0.000000
+75%         NaN   NaN  2013.000000                     0.059000
+max         NaN   NaN  2022.000000                  1848.260010
+
+Missing Values:
+Entity                          0.000000
+Code                           16.816505
+Year                            0.000000
+Electricity from wind (TWh)     0.000000
+
+Empty Strings:
+Entity                         0
+Code                           0
+Year                           0
+Electricity from wind (TWh)    0
+
+Whitespace Only Strings:
+Entity                         0
+Code                           0
+Year                           0
+Electricity from wind (TWh)    0
+
+Correlation matrix saved to Data_Analysis_Results/EvoModernRenewEnergyDS/08 wind-generation/08 wind-generation_correlation_matrix.png
+Feature histograms saved to Data_Analysis_Results/EvoModernRenewEnergyDS/08 wind-generation/08 wind-generation_feature_histograms.png
+Feature importance saved to Data_Analysis_Results/EvoModernRenewEnergyDS/08 wind-generation/08 wind-generation_feature_importance.png
