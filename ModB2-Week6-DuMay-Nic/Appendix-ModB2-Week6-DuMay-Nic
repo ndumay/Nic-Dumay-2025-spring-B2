@@ -1,0 +1,137 @@
+# Read that an appendix should be created for use of ChatGPT or other AI Assistance.
+# I want to make sure that I am following the rules. Please advise if I should be doing anything differently.
+
+
+# BU AI Use Policy: https://www.bu.edu/cds-faculty/culture-community/gaia-policy/
+# BU APA Formatted AI Use Citation: "OpenAI. (2024). Transcript of conversation with problem-solving solutions. Unpublished interaction transcript. Retrieved from OpenAI’s ChatGPT platform. In accordance with Boston University GAIA policy."
+
+
+# BU AI Use Citation Requirements:
+# b) ChatGPT (Subscription) 
+# c) Primarily will be using ChatGPT to prime myself for how to solution for problems within an assignment, what libraries most help with solving the problem, and then walking me through the steps to understanding how to get to the solution. ChatGPT, is helping me bridge a gap in my understand of converting course concepts to code;
+# d) AI is primarily being used as a preceptor that translates teachings information into to practical development knowledge to better understand the steps to the solution, learn optimal development to a given problem to form wisdom;
+
+# Initial Dialog: 
+# Asked for help with a homework assignment using GitHub Codespaces, Python, and Jupyter Notebooks. 
+# Provided libraries to be used and mentioned that I would need to cite the use of ChatGPT in the appendix.
+# Requested help in solving problems seaking step by step instructional breakdown for learning for 10 questions.
+
+
+# a) the entire exchange, highlighting the most relevant sections;
+
+# Problem Statements and Solution Steps Summary with Detailed Explanations
+
+# **Transcript Summary**
+
+# =====================================
+# Homework 6: Energy Data Investigation
+# =====================================
+
+# Importing necessary libraries for data exploration and visualization
+#import pandas as pd
+#import matplotlib.pyplot as plt
+#import seaborn as sns
+#import matplotlib.ticker as ticker
+#import numpy as np
+
+# ===========================
+# Dataset Overview
+# ===========================
+
+# Understanding the dataset structure before analysis
+# Checking for inconsistencies, missing values, and trends across multiple years
+
+# Loading the datasets and verifying contents
+# - Organized Generation dataset: State-wise energy production across various sources
+# - IRENA Renewable Energy dataset: Global renewable energy statistics
+# - States dataset: Mapping state abbreviations to full names for clarity
+
+# Dataset summary: What are the key columns and what do they represent?
+# - Does the "State" column in Organized Generation match "Code" in States.csv?
+# - Are all energy sources correctly categorized?
+# - How does energy generation fluctuate over time?
+
+# ===========================
+# Data Cleaning Process
+# ===========================
+
+# Identifying missing values and determining if they are critical
+# - What percentage of data is missing in key columns such as Year, State, Generation?
+# - Should records with missing "State" values be removed?
+# - Ensuring Energy_Source does not contain invalid or aggregated values (e.g., "Total")
+
+# Detecting data format inconsistencies
+# - Are there any outlier years (e.g., extreme future/past years)?
+# - Do all numeric columns have consistent formatting?
+# - Are there any state abbreviations that do not match the state mapping file?
+
+# Identifying duplicate records
+# - How many duplicate records exist in each dataset?
+# - Should duplicates be removed or are they valid repeated entries?
+
+# ===========================
+# Exploratory Data Analysis
+# ===========================
+
+# Visualizing overall energy generation trends
+# - Line chart: How has total energy production changed over time?
+# - Does the data suggest anomalies, such as sudden drops?
+
+# Correlation Analysis
+# - Heatmaps: Understanding relationships between numerical variables
+# - What correlations exist between installed capacity and generation over time?
+
+# State-level Analysis
+# - Which states have the highest energy generation?
+# - Are certain states dominant in specific energy sources?
+
+# Installed Capacity Trends
+# - How does installed capacity vary across countries?
+# - Are certain countries investing significantly more in renewables?
+
+# ===========================
+# Time-Series Analysis
+# ===========================
+
+# Examining the rise of renewable energy sources
+# - How has renewable energy production grown over the years?
+# - Which sources have seen the highest increase?
+
+# Energy Generation Trends by Source
+# - Which energy sources have gained or lost prominence over the years?
+# - How do sources like Coal, Natural Gas, Wind, and Nuclear compare in trend?
+
+# Investigating sudden changes in generation patterns
+# - Are there years with sharp increases or decreases?
+# - Can external events (policy changes, economic shifts) explain these trends?
+
+# ===========================
+# Visual Enhancements & Interpretation
+# ===========================
+
+# Refining visualizations for better clarity
+# - Adjusting color scales for consistency across correlation heatmaps
+# - Improving axis formatting for large numbers (e.g., GWh, MW)
+# - Ensuring labels and titles clearly reflect insights
+
+# Directly labeling data in key trend charts
+# - Avoiding the use of legends where possible for readability
+# - Highlighting top energy sources in annotated plots
+
+# Addressing missing and mismatched data points
+# - What proportion of data is missing for critical fields?
+# - How can missing values be handled without biasing results?
+
+# ===========================
+# Final Insights & Recommendations
+# ===========================
+
+# Summarizing key takeaways from the analysis
+# - Which energy sources are declining vs. increasing?
+# - Which regions/states lead in energy production and capacity expansion?
+# - Are there discrepancies in reported data that require further validation?
+
+# Proposing improvements for future data collection
+# - Addressing missing data challenges
+# - Standardizing formats to ensure consistency
+# - Recommendations for handling anomalies in future reports
