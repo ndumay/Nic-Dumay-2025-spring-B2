@@ -1,0 +1,20 @@
+csv_path,target_column,drop_columns,plot_title
+GlobalRenewEnergyProd_2000_2022/IRENA_RenewableEnergy_Statistics_2000-2022.csv,Electricity Generation (GWh),[],IRENA: Electricity Generation
+USEnergyGen_2001_2022/organised_Gen.csv,GENERATION (Megawatthours),[],US: Electricity Generation
+EvoModernRenewEnergyDS/01 renewable-share-energy.csv,Renewables (% equivalent primary energy),[],Global: Renewable Share Energy
+EvoModernRenewEnergyDS/02 modern-renewable-energy-consumption.csv,Geo Biomass Other - TWh,[],Modern Renewable Energy Consumption
+EvoModernRenewEnergyDS/03 modern-renewable-prod.csv,Other renewables including bioenergy (TWh),[],Modern Renewable Production
+EvoModernRenewEnergyDS/04 share-electricity-renewables.csv,Renewables (% electricity),[],Share Electricity Renewables
+EvoModernRenewEnergyDS/05 hydropower-consumption.csv,Electricity from hydro (TWh),[],Hydropower Consumption
+EvoModernRenewEnergyDS/06 hydro-share-energy.csv,Hydro (% equivalent primary energy),[],Hydro Share Energy
+EvoModernRenewEnergyDS/07 share-electricity-hydro.csv,Hydro (% electricity),[],Share of Electricity from Hydro
+EvoModernRenewEnergyDS/08 wind-generation.csv,Electricity from wind (TWh),[],Wind Generation
+EvoModernRenewEnergyDS/09 cumulative-installed-wind-energy-capacity-gigawatts.csv,Wind Capacity,[],Cumulative Wind Capacity
+EvoModernRenewEnergyDS/10 wind-share-energy.csv,Wind (% equivalent primary energy),[],Wind Share Energy
+EvoModernRenewEnergyDS/11 share-electricity-wind.csv,Wind (% electricity),[],Share of Electricity from Wind
+EvoModernRenewEnergyDS/12 solar-energy-consumption.csv,Electricity from solar (TWh),[],Solar Energy Consumption
+EvoModernRenewEnergyDS/13 installed-solar-PV-capacity.csv,Solar Capacity,[],Installed Solar PV Capacity
+EvoModernRenewEnergyDS/14 solar-share-energy.csv,Solar (% equivalent primary energy),[],Solar Share Energy
+EvoModernRenewEnergyDS/15 share-electricity-solar.csv,Solar (% electricity),[],Share of Electricity from Solar
+EvoModernRenewEnergyDS/16 biofuel-production.csv,Biofuels Production - TWh - Total,[],Biofuel Production
+EvoModernRenewEnergyDS/17 installed-geothermal-capacity.csv,Geothermal Capacity,[],Installed Geothermal Capacity

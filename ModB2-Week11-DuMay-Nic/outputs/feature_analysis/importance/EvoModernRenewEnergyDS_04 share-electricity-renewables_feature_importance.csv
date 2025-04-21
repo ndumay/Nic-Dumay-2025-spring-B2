@@ -1,0 +1,242 @@
+,Importance
+Entity_Middle Africa (BP),0.07009256475732939
+Code_ISL,0.06688085873360565
+Code_NOR,0.06363675312832381
+Entity_Iceland,0.05426715578555688
+Entity_Albania,0.05349348799706931
+Code_ALB,0.052628022358245735
+Code_BRA,0.05072830114749406
+Entity_Norway,0.044032210572892555
+Entity_Brazil,0.04295531339760893
+Code_BTN,0.03042820759116409
+Entity_Nepal,0.028260260327829034
+Entity_Tajikistan,0.023346133624388973
+Code_NPL,0.023183987093646424
+Entity_Lesotho,0.022103267566291565
+Code_TJK,0.022092629752999433
+Entity_Mozambique,0.02153431268710015
+Entity_Namibia,0.021123090373268368
+Entity_Bhutan,0.020632851919950214
+Code_NAM,0.020174882103323827
+Code_COD,0.01886905047548743
+Entity_Zambia,0.018612467833351663
+Code_SWZ,0.018498132893692534
+Code_LSO,0.018339660561012897
+Code_ZMB,0.01658678082526239
+Entity_Eswatini,0.015295997090979771
+Entity_Democratic Republic of Congo,0.014779486217309193
+Entity_Paraguay,0.01354809947872122
+Code_MOZ,0.013225487668573257
+Code_ETH,0.012867400641343358
+Entity_Ethiopia,0.012793706069051695
+Entity_Burundi,0.012716106338886592
+Code_PRY,0.011816871397410873
+Code_BDI,0.008780898119304756
+Entity_Malawi,0.007916016552720381
+Code_LAO,0.006752594813648137
+Year,0.005310497527677423
+Entity_Costa Rica,0.00520308014756701
+Entity_Laos,0.0051570401016639575
+Entity_New Zealand,0.004496870411778828
+Code_MWI,0.00433104827241523
+Code_CRI,0.004062795328748601
+Code_NZL,0.0033470682201420182
+Code_UGA,0.00263766364356672
+Code_KGZ,0.002409183601763216
+Code_CAF,0.001775466106509958
+Entity_Uganda,0.0016242844610515617
+Entity_South America,0.0016201176034125575
+Entity_Kyrgyzstan,0.0008865255523236365
+Entity_Eastern Africa (BP),0.0008699737704689279
+Entity_Colombia,0.0008632285378642321
+Entity_Cameroon,0.0008187074464165805
+Code_ECU,0.0008156233387657925
+Entity_Central African Republic,0.0007777780330192329
+Entity_Uruguay,0.0
+Code_URY,0.0
+Entity_Georgia,0.0
+Code_AUT,0.0
+Code_GEO,0.0
+Entity_Peru,0.0
+Code_PER,0.0
+Entity_Central America (BP),0.0
+Entity_Ecuador,0.0
+Entity_South and Central America (BP),0.0
+Code_AFG,0.0
+Code_COL,0.0
+Code_VEN,0.0
+Entity_Venezuela,0.0
+Code_CMR,0.0
+Code_KEN,0.0
+Entity_Kenya,0.0
+Entity_Canada,0.0
+Code_CAN,0.0
+Entity_Angola,0.0
+Code_AGO,0.0
+Code_LVA,0.0
+Entity_Latvia,0.0
+Code_LKA,0.0
+Entity_Sri Lanka,0.0
+Code_HKG,0.0
+Entity_Hong Kong,0.0
+Entity_Austria,0.0
+Code_KWT,0.0
+Entity_Kuwait,0.0
+Code_SAU,0.0
+Entity_Saudi Arabia,0.0
+Code_OMN,0.0
+Entity_Oman,0.0
+Code_QAT,0.0
+Entity_Qatar,0.0
+Code_TTO,0.0
+Entity_Trinidad and Tobago,0.0
+Code_ARE,0.0
+Entity_United Arab Emirates,0.0
+Entity_Singapore,0.0
+Code_SGP,0.0
+Entity_North Korea,0.0
+Code_PRK,0.0
+Entity_Israel,0.0
+Code_ISR,0.0
+Code_DZA,0.0
+Entity_Algeria,0.0
+Code_GRL,0.0
+Entity_Greenland,0.0
+Entity_South Africa,0.0
+Code_ZAF,0.0
+Code_TKM,0.0
+Entity_Turkmenistan,0.0
+Code_SLV,0.0
+Entity_El Salvador,0.0
+Code_CYP,0.0
+Entity_Cyprus,0.0
+Code_BLR,0.0
+Entity_Belarus,0.0
+Entity_South Korea,0.0
+Code_KOR,0.0
+Entity_Congo,0.0
+Code_COG,0.0
+Code_PAN,0.0
+Entity_Panama,0.0
+Entity_Middle East (BP),0.0
+Code_FJI,0.0
+Entity_Fiji,0.0
+Entity_Ghana,0.0
+Code_GHA,0.0
+Entity_Switzerland,0.0
+Code_CHE,0.0
+Code_HRV,0.0
+Entity_Croatia,0.0
+Code_TWN,0.0
+Entity_Taiwan,0.0
+Entity_Malta,0.0
+Code_MLT,0.0
+Code_GUF,0.0
+Entity_French Guiana,0.0
+Entity_Hungary,0.0
+Code_HUN,0.0
+Code_BLZ,0.0
+Entity_Belize,0.0
+Entity_Bangladesh,0.0
+Code_BGD,0.0
+Entity_Poland,0.0
+Code_POL,0.0
+Entity_Czechia,0.0
+Code_CZE,0.0
+Code_TZA,0.0
+Entity_Tanzania,0.0
+Entity_Guinea,0.0
+Code_GIN,0.0
+Entity_Zimbabwe,0.0
+Code_ZWE,0.0
+Code_SWE,0.0
+Entity_Sweden,0.0
+Entity_Djibouti,0.0
+Code_DJI,0.0
+Entity_Bahamas,0.0
+Code_BHS,0.0
+Entity_Nauru,0.0
+Code_NRU,0.0
+Entity_Gambia,0.0
+Code_GMB,0.0
+Code_COM,0.0
+Code_BRN,0.0
+Entity_Brunei,0.0
+Entity_Comoros,0.0
+Entity_Guinea-Bissau,0.0
+Code_GNB,0.0
+Code_VGB,0.0
+Entity_British Virgin Islands,0.0
+Code_TCA,0.0
+Entity_Turks and Caicos Islands,0.0
+Code_ASM,0.0
+Entity_American Samoa,0.0
+Entity_Macao,0.0
+Code_MAC,0.0
+Entity_Saint Pierre and Miquelon,0.0
+Code_SPM,0.0
+Entity_Montserrat,0.0
+Code_MSR,0.0
+Code_GRD,0.0
+Entity_Grenada,0.0
+Entity_Saint Lucia,0.0
+Code_KIR,0.0
+Entity_Kiribati,0.0
+Code_LCA,0.0
+Entity_Solomon Islands,0.0
+Code_SLB,0.0
+Code_BHR,0.0
+Entity_Bahrain,0.0
+Entity_Libya,0.0
+Code_LBY,0.0
+Code_BWA,0.0
+Entity_Botswana,0.0
+Code_BEL,0.0
+Entity_Belgium,0.0
+Code_CYM,0.0
+Entity_Cayman Islands,0.0
+Code_ERI,0.0
+Entity_Eritrea,0.0
+Entity_Benin,0.0
+Code_BEN,0.0
+Entity_United States Virgin Islands,0.0
+Code_VIR,0.0
+Code_CHL,0.0
+Entity_Chile,0.0
+Entity_Antigua and Barbuda,0.0
+Code_ATG,0.0
+Code_GUM,0.0
+Entity_Guam,0.0
+Code_PRI,0.0
+Entity_Puerto Rico,0.0
+Entity_Barbados,0.0
+Code_BRB,0.0
+Entity_Netherlands,0.0
+Code_NLD,0.0
+Code_MDV,0.0
+Entity_Maldives,0.0
+Code_UKR,0.0
+Entity_Ukraine,0.0
+Code_IRN,0.0
+Entity_Iran,0.0
+Entity_Somalia,0.0
+Code_SOM,0.0
+Code_GTM,0.0
+Entity_Guatemala,0.0
+Code_KNA,0.0
+Entity_Saint Kitts and Nevis,0.0
+Code_SYC,0.0
+Entity_Seychelles,0.0
+Code_SDN,0.0
+Entity_Sudan,0.0
+Entity_Tunisia,0.0
+Code_TUN,0.0
+Code_TLS,0.0
+Entity_Timor,0.0
+Entity_Niger,0.0
+Code_NER,0.0
+Code_MMR,0.0
+Entity_Myanmar,0.0
+Entity_Latin America and Caribbean (Ember),0.0
+Code_MNG,0.0
+Entity_Mongolia,0.0

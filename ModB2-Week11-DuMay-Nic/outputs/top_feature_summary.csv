@@ -1,0 +1,94 @@
+Dataset,,Unnamed: 0,Importance
+EvoModernRenewEnergyDS_05 hydropower-consumption,0,Entity_G20 (Ember),0.1914233571801369
+EvoModernRenewEnergyDS_05 hydropower-consumption,1,Entity_World,0.1721482645779686
+EvoModernRenewEnergyDS_05 hydropower-consumption,2,Entity_OECD (BP),0.1167944609535525
+EvoModernRenewEnergyDS_05 hydropower-consumption,3,Code_OWID_WRL,0.1167651123755574
+EvoModernRenewEnergyDS_05 hydropower-consumption,4,Entity_Non-OECD (BP),0.0937608019613699
+EvoModernRenewEnergyDS_17 installed-geothermal-capacity,0,Entity_World,0.3090462398347154
+EvoModernRenewEnergyDS_17 installed-geothermal-capacity,1,Code_OWID_WRL,0.2981614668485033
+EvoModernRenewEnergyDS_17 installed-geothermal-capacity,2,Year,0.1173027891629762
+EvoModernRenewEnergyDS_17 installed-geothermal-capacity,3,Entity_Asia Pacific,0.1040685189354653
+EvoModernRenewEnergyDS_17 installed-geothermal-capacity,4,Entity_North America,0.0907136617302582
+EvoModernRenewEnergyDS_15 share-electricity-solar,0,Year,0.3734452939489768
+EvoModernRenewEnergyDS_15 share-electricity-solar,1,Entity_Cook Islands,0.1092103694728573
+EvoModernRenewEnergyDS_15 share-electricity-solar,2,Code_COK,0.0830463538425604
+EvoModernRenewEnergyDS_15 share-electricity-solar,3,Entity_Namibia,0.0506072825624778
+EvoModernRenewEnergyDS_15 share-electricity-solar,4,Code_NAM,0.0467403180415539
+EvoModernRenewEnergyDS_13 installed-solar-PV-capacity,0,Year,0.3451296861153338
+EvoModernRenewEnergyDS_13 installed-solar-PV-capacity,1,Entity_Asia Pacific (BP),0.1319056537558301
+EvoModernRenewEnergyDS_13 installed-solar-PV-capacity,2,Code_OWID_WRL,0.109948099616884
+EvoModernRenewEnergyDS_13 installed-solar-PV-capacity,3,Entity_Asia,0.1048075924769633
+EvoModernRenewEnergyDS_13 installed-solar-PV-capacity,4,Entity_World,0.0947892450330054
+EvoModernRenewEnergyDS_03 modern-renewable-prod,0,Electricity from wind (TWh),0.7720039479704739
+EvoModernRenewEnergyDS_03 modern-renewable-prod,1,Electricity from hydro (TWh),0.1704022294238177
+EvoModernRenewEnergyDS_03 modern-renewable-prod,2,Electricity from solar (TWh),0.0344138229238799
+EvoModernRenewEnergyDS_03 modern-renewable-prod,3,Year,0.0127663821356541
+EvoModernRenewEnergyDS_03 modern-renewable-prod,4,Entity_Upper-middle-income countries,0.0012923662884895
+EvoModernRenewEnergyDS_02 modern-renewable-energy-consumption,0,Wind Generation - TWh,0.728771764214071
+EvoModernRenewEnergyDS_02 modern-renewable-energy-consumption,1,Hydro Generation - TWh,0.1901897451432
+EvoModernRenewEnergyDS_02 modern-renewable-energy-consumption,2,Solar Generation - TWh,0.0407618564170392
+EvoModernRenewEnergyDS_02 modern-renewable-energy-consumption,3,Year,0.015196339014199
+EvoModernRenewEnergyDS_02 modern-renewable-energy-consumption,4,Code_OWID_WRL,0.0047949772764602
+EvoModernRenewEnergyDS_14 solar-share-energy,0,Year,0.6559455109749747
+EvoModernRenewEnergyDS_14 solar-share-energy,1,Code_ITA,0.0486544500177917
+EvoModernRenewEnergyDS_14 solar-share-energy,2,Entity_Italy,0.0469135817498626
+EvoModernRenewEnergyDS_14 solar-share-energy,3,Entity_Greece,0.042264288832016
+EvoModernRenewEnergyDS_14 solar-share-energy,4,Code_GRC,0.0364929507696737
+EvoModernRenewEnergyDS_07 share-electricity-hydro,0,Entity_Middle Africa (BP),0.077581460015191
+EvoModernRenewEnergyDS_07 share-electricity-hydro,1,Code_NOR,0.0734039169863638
+EvoModernRenewEnergyDS_07 share-electricity-hydro,2,Code_ALB,0.0648862840929254
+EvoModernRenewEnergyDS_07 share-electricity-hydro,3,Entity_Norway,0.0556390147049546
+EvoModernRenewEnergyDS_07 share-electricity-hydro,4,Entity_Albania,0.0487027929939004
+EvoModernRenewEnergyDS_08 wind-generation,0,Year,0.3808585893681165
+EvoModernRenewEnergyDS_08 wind-generation,1,Entity_G20 (Ember),0.1527572516975761
+EvoModernRenewEnergyDS_08 wind-generation,2,Entity_High-income countries,0.0776845130162237
+EvoModernRenewEnergyDS_08 wind-generation,3,Entity_OECD (BP),0.0755596673656773
+EvoModernRenewEnergyDS_08 wind-generation,4,Entity_OECD (Ember),0.0516070230513631
+EvoModernRenewEnergyDS_11 share-electricity-wind,0,Year,0.2936950661384838
+EvoModernRenewEnergyDS_11 share-electricity-wind,1,Code_FLK,0.0854768056535979
+EvoModernRenewEnergyDS_11 share-electricity-wind,2,Entity_Denmark,0.083939101092509
+EvoModernRenewEnergyDS_11 share-electricity-wind,3,Code_DNK,0.0808447773826628
+EvoModernRenewEnergyDS_11 share-electricity-wind,4,Entity_Falkland Islands,0.0702367529422024
+GlobalRenewEnergyProd_2000_2022_IRENA_RenewableEnergy_Statistics_2000-2022,0,Electricity Installed Capacity (MW),0.9388534497586998
+GlobalRenewEnergyProd_2000_2022_IRENA_RenewableEnergy_Statistics_2000-2022,1,Technology_Coal and peat,0.0217456383677477
+GlobalRenewEnergyProd_2000_2022_IRENA_RenewableEnergy_Statistics_2000-2022,2,Technology_Natural gas,0.0134258394309232
+GlobalRenewEnergyProd_2000_2022_IRENA_RenewableEnergy_Statistics_2000-2022,3,RE or Non-RE_Total Renewable,0.0063206451163748
+GlobalRenewEnergyProd_2000_2022_IRENA_RenewableEnergy_Statistics_2000-2022,4,Group Technology_Nuclear,0.0028912191617787
+EvoModernRenewEnergyDS_01 renewable-share-energy,0,Code_NOR,0.1564558469549196
+EvoModernRenewEnergyDS_01 renewable-share-energy,1,Entity_Norway,0.1431850303041758
+EvoModernRenewEnergyDS_01 renewable-share-energy,2,Code_ISL,0.1196400293944256
+EvoModernRenewEnergyDS_01 renewable-share-energy,3,Entity_Iceland,0.1069895751122273
+EvoModernRenewEnergyDS_01 renewable-share-energy,4,Code_NZL,0.0464601243015455
+EvoModernRenewEnergyDS_10 wind-share-energy,0,Year,0.3597511616732284
+EvoModernRenewEnergyDS_10 wind-share-energy,1,Entity_Denmark,0.1678798943600977
+EvoModernRenewEnergyDS_10 wind-share-energy,2,Code_DNK,0.1289001409825836
+EvoModernRenewEnergyDS_10 wind-share-energy,3,Code_IRL,0.0524455565473923
+EvoModernRenewEnergyDS_10 wind-share-energy,4,Entity_Ireland,0.0514931963893712
+EvoModernRenewEnergyDS_04 share-electricity-renewables,0,Entity_Middle Africa (BP),0.0700925647573293
+EvoModernRenewEnergyDS_04 share-electricity-renewables,1,Code_ISL,0.0668808587336056
+EvoModernRenewEnergyDS_04 share-electricity-renewables,2,Code_NOR,0.0636367531283238
+EvoModernRenewEnergyDS_04 share-electricity-renewables,3,Entity_Iceland,0.0542671557855568
+EvoModernRenewEnergyDS_04 share-electricity-renewables,4,Entity_Albania,0.0534934879970693
+EvoModernRenewEnergyDS_09 cumulative-installed-wind-energy-capacity-gigawatts,0,Year,0.4598841005368076
+EvoModernRenewEnergyDS_09 cumulative-installed-wind-energy-capacity-gigawatts,1,Code_OWID_WRL,0.1508593674499187
+EvoModernRenewEnergyDS_09 cumulative-installed-wind-energy-capacity-gigawatts,2,Entity_World,0.0927244652374241
+EvoModernRenewEnergyDS_09 cumulative-installed-wind-energy-capacity-gigawatts,3,Entity_High-income countries,0.063051801631837
+EvoModernRenewEnergyDS_09 cumulative-installed-wind-energy-capacity-gigawatts,4,Entity_Europe,0.0465038223409083
+USEnergyGen_2001_2022_organised_Gen,0,TYPE OF PRODUCER_Total Electric Power Industry,0.4395749800403354
+USEnergyGen_2001_2022_organised_Gen,1,ENERGY SOURCE_Total,0.4027252847710755
+USEnergyGen_2001_2022_organised_Gen,2,STATE_US-TOTAL,0.1576997351885889
+EvoModernRenewEnergyDS_06 hydro-share-energy,0,Entity_Norway,0.1926063920451941
+EvoModernRenewEnergyDS_06 hydro-share-energy,1,Code_NOR,0.1594331064030734
+EvoModernRenewEnergyDS_06 hydro-share-energy,2,Code_ISL,0.1318597360323073
+EvoModernRenewEnergyDS_06 hydro-share-energy,3,Entity_Iceland,0.0694241144586968
+EvoModernRenewEnergyDS_06 hydro-share-energy,4,Entity_Middle Africa (BP),0.0574557635829063
+EvoModernRenewEnergyDS_12 solar-energy-consumption,0,Year,0.2575272522367184
+EvoModernRenewEnergyDS_12 solar-energy-consumption,1,Entity_OECD (BP),0.1012268627028162
+EvoModernRenewEnergyDS_12 solar-energy-consumption,2,Entity_High-income countries,0.0976664987267209
+EvoModernRenewEnergyDS_12 solar-energy-consumption,3,Entity_G20 (Ember),0.0954304493248089
+EvoModernRenewEnergyDS_12 solar-energy-consumption,4,Entity_OECD (Ember),0.0744852070216312
+EvoModernRenewEnergyDS_16 biofuel-production,0,Year,0.4228742824889889
+EvoModernRenewEnergyDS_16 biofuel-production,1,Code_OWID_WRL,0.1505859724081577
+EvoModernRenewEnergyDS_16 biofuel-production,2,Entity_World,0.1478202722790013
+EvoModernRenewEnergyDS_16 biofuel-production,3,Entity_OECD (BP),0.0840132452326209
+EvoModernRenewEnergyDS_16 biofuel-production,4,Entity_Non-OECD (BP),0.0547015329958764
